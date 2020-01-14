@@ -1,0 +1,42 @@
+
+.col-md-4{
+    display: flex;
+    flex-direction: column;
+    padding: 40px 0;
+    padding-left: 150px;
+    padding-right: 50px;
+    width: 600px;
+}
+
+span{
+    font-size:20px;
+    padding:10px 0;
+    font-weight: 400;
+}
+
+input.user{
+    width: 250px;
+    height: 25px;
+    font-size:18px;
+    border: 1px solid rgba(17,17,17,0.4);
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.message{
+    width: 500px;
+    height:200px;
+    font-size:18px;
+    border: 1px solid rgba(17,17,17,0.4);
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+button{
+    width:80px;
+    height: 35px;
+    background: rgba(17,17,17,0.2);
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+    cursor: pointer;
+}

@@ -1,0 +1,31 @@
+
+.list-group .item{
+    margin-top: 20px;
+    border: 1px solid #ebebeb;
+    border-radius: 1px;
+    box-shadow: 1px 1px 4px -2px;
+    width: 550px;
+}
+
+.item .handle{
+    padding: 25px;
+    word-break: normal;
+}
+
+.item .handle a{
+    float:right;
+    width:40px;
+    height: 18px;
+    background: rgba(17,17,17,0.2);
+    border-radius: 4px;
+    font-size: 13px;
+    text-decoration: none;
+    color: #111;
+    padding: 5px;
+    text-align: center;
+    align-content: center;
+}
+
+.item .handle .centence{
+    margin-top: 10px;
+}
